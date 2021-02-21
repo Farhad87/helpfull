@@ -1,9 +1,6 @@
 # Создание виртуальных окружений с необходимыми версиями Python
 ### Устанавливаем pyenv
-```commandline
-sudo apt-get install git python-pip make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev curl
-git clone https://github.com/yyuu/pyenv.git ~/.pyenv
-```
+[pyenv installation](https://github.com/pyenv/pyenv#installation)
 или
 ```commandline
 brew update
