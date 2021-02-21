@@ -1,11 +1,6 @@
 # Создание виртуальных окружений с необходимыми версиями Python
 ### Устанавливаем pyenv
 [pyenv installation](https://github.com/pyenv/pyenv#installation)
-или
-```commandline
-brew update
-brew install pyenv
-```
 ### Устанавливаем необходимую версию Python и активируем
 ```commandline
 pyenv install <version>
