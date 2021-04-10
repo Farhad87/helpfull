@@ -3,9 +3,9 @@
 3. <a href="https://habr.com/ru/company/ru_mts/blog/485980/" target="_blank">Туториал по uplift моделированию</a> - статья на habr.com.
 4. <a href="https://www.youtube.com/watch?v=jLIAiDMyseQ" target="_blank">How to setup your DS project</a> - Владислав Гончаренко - Организация работы в DS.
 5. <a href="https://habr.com/ru/company/ods/blog/464715/" target="_blank">Визуализация графов для самых маленьких</a> - статья на habr.com
-6. <a href="" target="_blank"></a> - 
-7. <a href="" target="_blank"></a> - 
-8. <a href="" target="_blank"></a> - 
+6. <a href="https://fall2019.fullstackdeeplearning.com/" target="_blank">Full Stack Deep Learning</a> - Full Stack Deep Learning course
+7. <a href="https://pyprog.pro/" target="_blank">pyprog.pro</a> - Разбор питоновских библиотек
+8. <a href="https://refactoring.guru/ru" target="_blank">Refactoring guru</a> - Рефакторинг и паттерны проектирования на разных ЯП
 9. <a href="" target="_blank"></a> - 
 10. <a href="" target="_blank"></a> - 
 11. <a href="" target="_blank"></a> - 
