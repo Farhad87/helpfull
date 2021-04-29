@@ -9,7 +9,7 @@
 9. <a href="http://www.machinelearning.ru" target="_blank">Machinelearning.ru</a> - Статьи и курсы по ML
 10. <a href="https://data.stackexchange.com/" target="_blank">Data Stackexchange</a> - Перечень ресурсов с ответами на вопросы по разным темам
 11. <a href="" target="_blank">chrome://inspect/#devices</a> - Отладка сайта на Android при помощи браузера
-12. <a href="" target="_blank"></a> - 
+12. <a href="https://www.tutorialscampus.com/" target="_blank">Tutorials</a> - Много разных туториалов
 13. <a href="" target="_blank"></a> - 
 14. <a href="" target="_blank"></a> - 
 15. <a href="" target="_blank"></a> - 
