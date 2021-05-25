@@ -18,4 +18,5 @@ eval "$(pyenv init -)"
 ### Создание виртуального окружения
 ```commandline
 python -m venv <env_name>
+pip install <package> --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org
 ```
