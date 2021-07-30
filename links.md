@@ -12,7 +12,7 @@
 12. <a href="https://www.tutorialscampus.com/" target="_blank">Tutorials</a> - Много разных туториалов
 13. <a href="https://habr.com/ru/post/483202/" target="_blank">Введение в REST API</a> - Серия статей по RESTfull вэб-сервисам
 14. <a href="https://paperswithcode.com/" target="_blank">Papers with code</a> - SOTA статьи с кодом
-15. <a href="" target="_blank"></a> - 
+15. <a href="https://proglib.io/p/nlp-i-vizualizaciya-teksta-na-primere-tvitov-o-prezidentskih-vyborah-v-ssha-2021-06-10" target="_blank">NLP и визуализация текста на примере твитов о президентских выборах в США</a>
 16. <a href="" target="_blank"></a> - 
 17. <a href="" target="_blank"></a> - 
 18. <a href="" target="_blank"></a> - 
