@@ -1,3 +1,4 @@
+```
 root = true
 
 [*]
@@ -13,3 +14,4 @@ indent_size = 2
 
 [Makefile]
 indent_style = tab
+```
