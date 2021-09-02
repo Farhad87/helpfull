@@ -16,7 +16,7 @@
 16. <a href="https://nuancesprog.ru/p/3623/" target="_blank">Нейронная сеть с нуля при помощи numpy</a>
 17. <a href="https://habr.com/ru/post/310460/" target="_blank">Полное руководствоо по докер</a> - статья на хабр
 18. <a href="https://habr.com/ru/company/ruvds/blog/325522/" target="_blank">Серия статей по bash скриптам</a>
-19. <a href="" target="_blank"></a> - 
+19. <a href="https://proglib.io/p/sovremennye-rekomendatelnye-sistemy-2021-03-02" target="_blank">Современные рекомендательные системы</a> - статья на хабр
 20. <a href="" target="_blank"></a> - 
 21. <a href="" target="_blank"></a> - 
 22. <a href="" target="_blank"></a> - 
