@@ -18,7 +18,7 @@
 18. <a href="https://habr.com/ru/company/ruvds/blog/325522/" target="_blank">Серия статей по bash скриптам</a>
 19. <a href="https://proglib.io/p/sovremennye-rekomendatelnye-sistemy-2021-03-02" target="_blank">Современные рекомендательные системы</a> - статья на хабр
 20. <a href="https://highload.today/44-besplatnyh-resursa-dlya-veb-razrabotchika-shrifty-hostingi-foto-i-video-idei-dlya-dizajna/" target="_blank">44 бесплатных ресурса</a> для веб разработки 
-21. <a href="" target="_blank"></a> - 
+21. <a href="https://habr.com/ru/company/first/blog/497342/" target="_blank">Браузер на страже API-запросов</a> - безопасное общение фронтенда с бэкендом
 22. <a href="" target="_blank"></a> - 
 23. <a href="" target="_blank"></a> - 
 24. <a href="" target="_blank"></a> - 
