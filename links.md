@@ -19,7 +19,7 @@
 19. <a href="https://proglib.io/p/sovremennye-rekomendatelnye-sistemy-2021-03-02" target="_blank">Современные рекомендательные системы</a> - статья на хабр
 20. <a href="https://highload.today/44-besplatnyh-resursa-dlya-veb-razrabotchika-shrifty-hostingi-foto-i-video-idei-dlya-dizajna/" target="_blank">44 бесплатных ресурса</a> для веб разработки 
 21. <a href="https://habr.com/ru/company/first/blog/497342/" target="_blank">Браузер на страже API-запросов</a> - безопасное общение фронтенда с бэкендом
-22. <a href="" target="_blank"></a> - 
+22. <a href="https://farid.one/kaggle-solutions/" target="_blank">Kaggle solutions</a> - Топовые решения с соревнований kaggle.
 23. <a href="" target="_blank"></a> - 
 24. <a href="" target="_blank"></a> - 
 25. <a href="" target="_blank"></a> - 
