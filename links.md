@@ -20,8 +20,8 @@
 20. <a href="https://highload.today/44-besplatnyh-resursa-dlya-veb-razrabotchika-shrifty-hostingi-foto-i-video-idei-dlya-dizajna/" target="_blank">44 бесплатных ресурса</a> для веб разработки 
 21. <a href="https://habr.com/ru/company/first/blog/497342/" target="_blank">Браузер на страже API-запросов</a> - безопасное общение фронтенда с бэкендом
 22. <a href="https://farid.one/kaggle-solutions/" target="_blank">Kaggle solutions</a> - Топовые решения с соревнований kaggle.
-23. <a href="" target="_blank"></a> - 
-24. <a href="" target="_blank"></a> - 
+23. <a href="https://coderlessons.com/" target="_blank">coderlessons.com</a> - Уроки и статьи по программированию
+24. <a href="https://codernet.ru/" target="_blank">codernet.ru</a> - Портал для программистов
 25. <a href="" target="_blank"></a> - 
 26. <a href="" target="_blank"></a> - 
 27. <a href="" target="_blank"></a> - 
