@@ -22,7 +22,7 @@
 22. <a href="https://farid.one/kaggle-solutions/" target="_blank">Kaggle solutions</a> - Топовые решения с соревнований kaggle.
 23. <a href="https://coderlessons.com/" target="_blank">coderlessons.com</a> - Уроки и статьи по программированию
 24. <a href="https://codernet.ru/" target="_blank">codernet.ru</a> - Портал для программистов
-25. <a href="" target="_blank"></a> - 
+25. <a href="https://cloud.blobcity.com/code/explore" target="_blank">Blob City</a> - много кода по ML
 26. <a href="" target="_blank"></a> - 
 27. <a href="" target="_blank"></a> - 
 28. <a href="" target="_blank"></a> - 
