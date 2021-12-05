@@ -13,7 +13,7 @@ pyenv global
 ```
 ### Активация pyenv в текущей консоли
 ```commandline
-eval "$(pyenv init -)"
+eval "$(pyenv init --path)"
 ```
 ### Создание виртуального окружения
 ```commandline
