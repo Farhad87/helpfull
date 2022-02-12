@@ -12,7 +12,7 @@
 12. <a href="https://www.tutorialscampus.com/" target="_blank">Tutorials</a> - Много разных туториалов
 13. <a href="https://habr.com/ru/post/483202/" target="_blank">Введение в REST API</a> - Серия статей по RESTfull вэб-сервисам
 14. <a href="https://paperswithcode.com/" target="_blank">Papers with code</a> - SOTA статьи с кодом
-15. 
+15. <a href="https://thisisdata.ru/blog/uchimsya-primenyat-okonnyye-funktsii/">Учимся применять оконные функции</a>
 16. <a href="https://nuancesprog.ru/p/3623/" target="_blank">Нейронная сеть с нуля при помощи numpy</a>
 17. <a href="https://habr.com/ru/post/310460/" target="_blank">Полное руководствоо по докер</a> - статья на хабр
 18. <a href="https://habr.com/ru/company/ruvds/blog/325522/" target="_blank">Серия статей по bash скриптам</a>
