@@ -32,10 +32,10 @@
 32. <a href="https://habr.com/ru/post/678150/" target="_blank">MLOps</a> - Жизненный цикл ML моделей: от идеи до продакшена
 33. <a href="https://habr.com/ru/company/X5Tech/blog/679842/" target="_blank">Бутстреп и А/В тест</a> - серия статей про А/В тесты
 34. <a href="https://habr.com/ru/company/unistar_digital/blog/682032/" target="_blank">CBOW</a> - математика алгоритма обучения
-35. <a href="" target="_blank"></a> - 
-36. <a href="" target="_blank"></a> - 
-37. <a href="" target="_blank"></a> - 
-38. <a href="" target="_blank"></a> - 
+35. <a href="https://proglib.io/p/sozdaem-rekrutingovyy-portal-na-django-chast-1-2022-07-18" target="_blank">Рекрутинговый портал на Django</a> - серия статей
+36. <a href="https://habr.com/ru/post/680822/" target="_blank">Тестирование ML систем</a> - 
+37. <a href="https://habr.com/ru/company/yandex/blog/499534/" target="_blank">Практическое руководство по бэкенду</a> - 
+38. <a href="https://habr.com/ru/post/692234/" target="_blank">Workstation</a> - 
 39. <a href="" target="_blank"></a> - 
 40. <a href="" target="_blank"></a> - 
 41. <a href="" target="_blank"></a> - 
