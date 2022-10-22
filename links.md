@@ -25,7 +25,7 @@
 25. <a href="https://cloud.blobcity.com/code/explore" target="_blank">Blob City</a> - много кода по ML
 26. <a href="https://ml-handbook.ru" target="_blank">ML book</a> - от Яндекс
 27. <a href="https://habr.com/ru/company/tochka/blog/683608/" target="_blank">Метрики</a> - Как мониторить работу сервиса 
-28. <a href="" target="_blank"></a> - 
-29. <a href="" target="_blank"></a> - 
+28. <a href="https://habr.com/ru/post/681218/" target="_blank"></a> - 
+29. <a href="https://habr.com/ru/post/687338/" target="_blank"></a> - 
 30. <a href="" target="_blank"></a> - 
 31. <a href="" target="_blank"></a> -
