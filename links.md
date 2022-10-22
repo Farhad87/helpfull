@@ -31,7 +31,7 @@
 31. <a href="https://habr.com/ru/company/wunderfund/blog/685894/" target="_blank">Разбираемся с Redis</a> -
 32. <a href="https://habr.com/ru/post/678150/" target="_blank">MLOps</a> - Жизненный цикл ML моделей: от идеи до продакшена
 33. <a href="https://habr.com/ru/company/X5Tech/blog/679842/" target="_blank">Бутстреп и А/В тест</a> - серия статей про А/В тесты
-34. <a href="" target="_blank"></a> - 
+34. <a href="https://habr.com/ru/company/unistar_digital/blog/682032/" target="_blank">CBOW</a> - математика алгоритма обучения
 35. <a href="" target="_blank"></a> - 
 36. <a href="" target="_blank"></a> - 
 37. <a href="" target="_blank"></a> - 
