@@ -27,10 +27,10 @@
 27. <a href="https://habr.com/ru/company/tochka/blog/683608/" target="_blank">Метрики</a> - Как мониторить работу сервиса 
 28. <a href="https://habr.com/ru/post/681218/" target="_blank">Интерпретация summary из statsmodels для линейной регрессии</a>
 29. <a href="https://habr.com/ru/post/687338/" target="_blank">Факторный анализ</a>
-30. <a href="" target="_blank"></a> - 
-31. <a href="" target="_blank"></a> -
-32. <a href="" target="_blank"></a> - 
-33. <a href="" target="_blank"></a> - 
+30. <a href="https://habr.com/ru/post/682384/" target="_blank">Все про Airflow DAG</a> - 
+31. <a href="https://habr.com/ru/company/wunderfund/blog/685894/" target="_blank">Разбираемся с Redis</a> -
+32. <a href="https://habr.com/ru/post/678150/" target="_blank">MLOps</a> - Жизненный цикл ML моделей: от идеи до продакшена
+33. <a href="https://habr.com/ru/company/X5Tech/blog/679842/" target="_blank">Бутстреп и А/В тест</a> - серия статей про А/В тесты
 34. <a href="" target="_blank"></a> - 
 35. <a href="" target="_blank"></a> - 
 36. <a href="" target="_blank"></a> - 
