@@ -36,7 +36,7 @@
 36. <a href="https://habr.com/ru/post/680822/" target="_blank">Тестирование ML систем</a> - 
 37. <a href="https://habr.com/ru/company/yandex/blog/499534/" target="_blank">Практическое руководство по бэкенду</a> - 
 38. <a href="https://habr.com/ru/post/692234/" target="_blank">Workstation</a> - 
-39. <a href="" target="_blank"></a> - 
+39. <a href="https://proglib.io/p/kak-ispolzovat-rest-api-polnoe-rukovodstvo-dlya-nachinayushchih-2022-07-31" target="_blank">REST-API</a> - руководство по использованию
 40. <a href="" target="_blank"></a> - 
 41. <a href="" target="_blank"></a> - 
 42. <a href="" target="_blank"></a> - 
